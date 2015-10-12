@@ -1,0 +1,16 @@
+TODO LIST FOR QUARKIM
+
+v0.1
+* workable server that could accept user connection, with basic C/S protocol
+* two clients could see each other on user list, and could talk.
+* when there are user got offline, notify online users.
+* could do network tunneling
+
+v0.2
+* console UI, with three windows: user list, message window, type window.
+* encrypte messages
+* message history
+* user registration
+
+v0.3
+* group registration
